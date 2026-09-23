@@ -31,7 +31,7 @@ input{
     border-color: #253557;
 }
 input::placeholder{
-    color: rgb(246, 250, 250);
+    color: white;
 }
 
 button{
